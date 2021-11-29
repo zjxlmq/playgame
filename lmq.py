@@ -1,3 +1,8 @@
+#! /usr/bin/env
+'''
+可我在昨天心口涌
+'''
+
 import random
 keep = random.randint(1,100)
 print("…这是我搭建的游戏…")
